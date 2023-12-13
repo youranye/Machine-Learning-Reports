@@ -1,2 +1,2 @@
-# PyTorch-Linear-Classification
+# Linear Classification
 Linear Classification
